@@ -1,4 +1,4 @@
 # majsoulPlus-extension
-作为自用插件的一个备份
-
-随插件更新而更新
+A couple of extension I got from the chinese klingeling guy.
+>enable tips  
+>kill all males  
